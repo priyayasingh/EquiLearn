@@ -1,0 +1,14 @@
+{
+  "name": "equilearn-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EquiLearn – Inclusive Learning Content Tool",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run dev"
+  },
+  "keywords": ["accessibility", "education", "inclusive-learning", "dyslexia", "adhd", "low-vision"],
+  "author": "EquiLearn Team",
+  "license": "MIT"
+}
